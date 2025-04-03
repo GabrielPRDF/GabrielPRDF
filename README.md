@@ -1,6 +1,6 @@
 ## Hi there 👋, i'm Gabriel Fonseca!
 
-
+# I've been working with development for over 7 years, always looking to learn better methodologies and approaches.
 
 <!--
 **GabrielPRDF/GabrielPRDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
