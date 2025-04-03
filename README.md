@@ -51,4 +51,4 @@
 </picture>
 -->
 
-![Snake animation](https://github.com/GabrielPRDF/GabrielPRDF/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/GabrielPRDF/GabrielPRDF/blob/output/github-contribution-grid-snake.svg)
