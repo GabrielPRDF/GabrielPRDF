@@ -1,6 +1,6 @@
 # Hi there 👋, i'm Gabriel Fonseca!
 
-## I've been working with development for over 7 years, always looking to learn better methodologies and approaches.
+## I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as Bradesco and the Superior Electoral Court (TSE).
 
 
 ###These are the technologies I have knowledge of:
