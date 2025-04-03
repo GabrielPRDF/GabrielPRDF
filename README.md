@@ -34,6 +34,7 @@
   <a href="https://www.linkedin.com/in/gabriel-fonseca-br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -48,3 +49,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+-->
+
+![Snake animation](https://github.com/GabrielPRDF/GabrielPRDF/blob/output/github-contribuition-grid-snake.svg)
