@@ -1,16 +1,33 @@
 # Hi there 👋, i'm Gabriel Fonseca!
 
-## I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as Bradesco and the Superior Electoral Court (TSE).
+### I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. 
+##
+### I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as [Bradesco](https://play.google.com/store/apps/details?id=br.com.bradseg.bscelular&hl=pt_BR&pli=1) and the [Superior Electoral Court (TSE)](https://www.tse.jus.br/#/).
 
 
-###These are the technologies I have knowledge of:
+### Some technologies that I have knowledge of:
 
 - TypeScript;
 - JavaScript;
 - Angular;
 - Ionic;
+- HTML, CSS;
 - Java;
 - C and C++;
+- GIT;
+
+<div style="display: inline_block"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="css3" width="40" height="40"/>
+</div>
+          
 <!--
 **GabrielPRDF/GabrielPRDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
