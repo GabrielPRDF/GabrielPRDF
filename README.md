@@ -2,6 +2,15 @@
 
 ## I've been working with development for over 7 years, always looking to learn better methodologies and approaches.
 
+
+###These are the technologies I have knowledge of:
+
+- TypeScript;
+- JavaScript;
+- Angular;
+- Ionic;
+- Java;
+- C and C++;
 <!--
 **GabrielPRDF/GabrielPRDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
