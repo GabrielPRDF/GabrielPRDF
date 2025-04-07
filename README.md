@@ -12,6 +12,7 @@
 - Angular;
 - Ionic;
 - HTML, CSS;
+- SASS;
 - Java;
 - C and C++;
 - Python;
