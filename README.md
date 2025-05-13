@@ -5,7 +5,7 @@
 ### I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as [Bradesco](https://play.google.com/store/apps/details?id=br.com.bradseg.bscelular&hl=pt_BR&pli=1), [Superior Electoral Court (TSE)](https://www.tse.jus.br/#/) and the [Petrobras](https://petrobras.com.br/).
 
 
-### Tech Stack:
+### 🛠️ Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -59,12 +59,19 @@
 </div>
 
 ##
-### Contact:
-* Email: gabriel-prdf@hotmail.com ; gabrielprdf@gmail.com
+### 🌐 Contact
 
-<div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-fonseca-br/)
+
+[![E-mail](https://img.shields.io/badge/gabriel--prdf@hotmail.com-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabriel-prdf@hotmail.com)
+
+[![Gmail](https://img.shields.io/badge/gabrielprdf@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielprdf@gmail.com)
+
+
+<!--<div>
+* Email: gabriel-prdf@hotmail.com ; gabrielprdf@gmail.com
   <a href="https://www.linkedin.com/in/gabriel-fonseca-br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> -->
 
 ##
 
