@@ -1,8 +1,9 @@
 # Hi there 👋, i'm Gabriel Fonseca!
 
-### I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. 
-##
-### I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as [Bradesco](https://play.google.com/store/apps/details?id=br.com.bradseg.bscelular&hl=pt_BR&pli=1), [Superior Electoral Court (TSE)](https://www.tse.jus.br/#/) and the [Petrobras](https://petrobras.com.br/).
+### 📖 Aboult
+
+#### I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. 
+#### I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as [Bradesco](https://play.google.com/store/apps/details?id=br.com.bradseg.bscelular&hl=pt_BR&pli=1), [Superior Electoral Court (TSE)](https://www.tse.jus.br/#/) and the [Petrobras](https://petrobras.com.br/).
 <!--
 ### 🛠️ Portifolio:
 
