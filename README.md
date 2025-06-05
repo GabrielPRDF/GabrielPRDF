@@ -4,9 +4,12 @@
 
 #### I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. 
 #### I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as [Bradesco](https://play.google.com/store/apps/details?id=br.com.bradseg.bscelular&hl=pt_BR&pli=1), [Superior Electoral Court (TSE)](https://www.tse.jus.br/#/) and the [Petrobras](https://petrobras.com.br/).
+
+<!--
 ### 🛠️ Portifolio:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+-->
 
 ### 🛠️ Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,22 +30,6 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!--
-- TypeScript;
-- JavaScript;
-- Angular;
-- Ionic;
-- HTML, CSS;
-- SASS;
-- Java;
-- Spring;
-- Node.js
-- Swagger;
-- C and C++;
-- Python;
-- GIT;
--->
 
 <div style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
