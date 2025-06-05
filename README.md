@@ -1,6 +1,6 @@
 # Hi there 👋, i'm Gabriel Fonseca!
 
-### 📖 Aboult
+## 📖 Aboult
 
 #### I have a degree in Computer Science from Universidade Tuiuti do Paraná (UTP) and a postgraduate degree in Software Architecture. 
 #### I have been working in development for over seven years, always striving to improve my skills and adopt the best methodologies and approaches. Throughout my career, I have participated in large-scale projects for prominent companies and institutions, such as [Bradesco](https://play.google.com/store/apps/details?id=br.com.bradseg.bscelular&hl=pt_BR&pli=1), [Superior Electoral Court (TSE)](https://www.tse.jus.br/#/) and the [Petrobras](https://petrobras.com.br/).
@@ -12,6 +12,7 @@
 -->
 
 ### 🛠️ Tech Stack:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
