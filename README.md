@@ -67,7 +67,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/GabrielPRDF?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/GabrielPRDF?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GabrielPRDF.repoName) <img src="https://komarev.com/ghpvc/?username=GabrielPRDF" alt="GabrielPRDF" />
 
-[![GabrielPRDF GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPRDF&theme=algolia)](https://github.com/GabrielPRDF/github-readme-stats)
+<!--[![GabrielPRDF GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPRDF&theme=algolia)](https://github.com/GabrielPRDF/github-readme-stats)-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielPRDF/GabrielPRDF/output/github-contribution-grid-snake-dark.svg">
